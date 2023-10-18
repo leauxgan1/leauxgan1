@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leauxgan1
 - 👀 I’m interested in Software Development and Game Development
-- 🌱 I’m currently learning Functional Programming, Software Design, and SOLID principles.
-- 💞️ I’m looking to collaborate on game jams, as well as website designs.
+- 🌱 I’m currently learning Performance-Aware Programming, Backend Development, and Databases
+- 💞️ I’m looking to collaborate on game jams, as well as full-stack development.
 - 📫 How to reach me: logan.langdon@yahoo.com
 
 <!---
