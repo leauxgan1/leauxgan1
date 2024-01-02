@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @leauxgan1
 - 👀 I’m interested in Software Development and Game Development
-- 🌱 I’m currently learning Performance-Aware Programming, Backend Development, and Databases
-- 💞️ I’m looking to collaborate on game jams, as well as full-stack development.
+- 🌱 I’m currently learning about full-stack frameworks, containerization, and concurrency.
+- 💞️ I’m looking to collaborate on cli tools, restful APIs, as well as game jams.
 - 📫 How to reach me: logan.langdon@yahoo.com
 
 <!---
