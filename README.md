@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @leauxgan1
+- 👋 Hi, I’m @leauxgan1, here is my [professional website] (https://leauxgan1.github.io)
 - 👀 I’m interested in Software Development and Game Development
 - 🌱 I’m currently learning about full-stack frameworks, containerization, and concurrency.
 - 💞️ I’m looking to collaborate on cli tools, restful APIs, as well as game jams.
